@@ -1,0 +1,28 @@
+.heading {
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 30px;
+  }
+  .button1 {
+    background-color: rgb(44, 15, 211);
+    border: none;
+    border-radius: 9px;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-right: 10px;
+    color: white;
+  }
+  .button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .output {
+    text-align: center;
+    font-family: 'Roboto';
+    font-weight: 700;
+  }
+  
